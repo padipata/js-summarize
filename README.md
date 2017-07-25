@@ -1,2 +1,2 @@
 # vue-music
-这是一款基于vue.js的
+一款基于vue.js ，高仿网易云音乐的webapp
