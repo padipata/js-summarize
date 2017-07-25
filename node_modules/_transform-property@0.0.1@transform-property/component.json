@@ -1,0 +1,13 @@
+{
+  "name": "transform-property",
+  "repo": "component/transform-property",
+  "description": "Name of the CSS transform property (cross-browser)",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+    "framework": "mocha+chai"
+    ,"serve_files": ["build/specs.js"]
+    ,"src_files": [
+        "lib/**/*.js"
+        ,"test/**/*.js"
+    ]
+    ,"before_tests": "./node_modules/.bin/browserify ./test/*.js -d -o build/specs.js"
+    ,"launch_in_dev": ["chrome"]
+}
