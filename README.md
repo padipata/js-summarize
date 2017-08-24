@@ -152,9 +152,9 @@
 
 ![image](static/3.png)
 
-![image](4.png)
+![image](static/4.png)
 
-![image](5.png)
+![image](static/5.png)
 
 
 ### 安装与运行
