@@ -146,21 +146,21 @@
 
 ## 项目截图
 
-![image](https://github.com/songhaoreact/vue-music/blob/master/static/1.png)
+![image](static/1.png)
 
-![image](https://github.com/songhaoreact/vue-music/blob/master/static/2.png)
+![image](static/2.png)
 
-![image](https://github.com/songhaoreact/vue-music/blob/master/static/3.png)
+![image](static/3.png)
 
-![image](https://github.com/songhaoreact/vue-music/blob/master/static/4.png)
+![image](4.png)
 
-![image](https://github.com/songhaoreact/vue-music/blob/master/static/5.png)
+![image](5.png)
 
 
 ### 安装与运行
 
 ```
-git clone https://github.com/songhaoreact/vue-music.git
+git clone https://github.com/padipata/vue-music.git
 
 cd vue-music
 
